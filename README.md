@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I was the front-end developer and AI developer in my CodeUtsav team Visionaries-United We were Problem Statement Winner in this Hackaton [https://jadoohomes.onrender.com/](https://jadoohomes.onrender.com/)
+- 👯 I was the front-end developer and AI developer in my Hack-O-Harbor team Visionaries-United We were Problem Statement Winner in this Hackaton [https://jadoohomes.onrender.com/](https://jadoohomes.onrender.com/)
 
 - 📫 How to reach me **maurya.astitva@gmail.com**
 
