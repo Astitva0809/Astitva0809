@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/astitva maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astitva maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/astiva0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astiva0809" height="30" width="40" /></a>
+<a href="https://instagram.com/astitva0809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astiva0809" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@astitva.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@astitva.08" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/astitvamaurya4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astitvamaurya4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/astitva_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astitva_maurya" height="30" width="40" /></a>
