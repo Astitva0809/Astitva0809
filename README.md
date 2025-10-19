@@ -20,7 +20,7 @@
 <a href="https://www.codechef.com/users/astitvamaurya4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astitvamaurya4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/astitva_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astitva_maurya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/maurya.astitva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maurya.astitva" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/astitva_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astitva_maurya" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Redemption_Arc08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astitva_maurya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mauryaaq1na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mauryaaq1na" height="30" width="40" /></a>
 </p>
 
